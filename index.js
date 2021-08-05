@@ -1,5 +1,5 @@
 const {forEach} = require('lodash');
-const debug = require('debug')('semantic-release:monnorepo-git');
+const debug = require('debug')('semantic-release:replace');
 const micromatch = require('micromatch');
 const replace = require('@google/semantic-release-replace-plugin');
 
