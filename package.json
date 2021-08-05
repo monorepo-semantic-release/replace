@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-semantic-release/replace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/monorepo-semantic-release/replace.git",
   "author": "twinh <twinhuang@qq.com>",

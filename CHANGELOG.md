@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/monorepo-semantic-release/replace/compare/v1.0.0...v1.0.1) (2021-08-05)
+
+
+### Bug Fixes
+
+* change debug namespace to `semantic-release:replace` ([8542d16](https://github.com/monorepo-semantic-release/replace/commit/8542d16778013badd85e1a481d2bf62c99461edc))
+
 # 1.0.0 (2021-05-11)
 
 
