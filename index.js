@@ -1,7 +1,7 @@
 const {forEach} = require('lodash');
 const debug = require('debug')('semantic-release:replace');
 const micromatch = require('micromatch');
-const replace = require('@google/semantic-release-replace-plugin');
+const replace = require('semantic-release-replace-plugin');
 
 async function prepareAll(pluginConfig, context) {
   const {pkgContexts} = context;
