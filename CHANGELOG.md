@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/monorepo-semantic-release/replace/compare/v1.0.1...v1.1.0) (2024-04-02)
+
+
+### Bug Fixes
+
+* lock semantic-release-replace-plugin version to 1.2.0 to avoid lodash esm error ([ce2245b](https://github.com/monorepo-semantic-release/replace/commit/ce2245b89581014d2cd6fc906e734ec48db71012))
+
+
+### Features
+
+* lock semantic-release-replace-plugin version to 1.2.3 to avoid esm error ([9becd06](https://github.com/monorepo-semantic-release/replace/commit/9becd066638deee93a71e800200425267cec12fa))
+
 ## [1.0.1](https://github.com/monorepo-semantic-release/replace/compare/v1.0.0...v1.0.1) (2021-08-05)
 
 
